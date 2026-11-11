@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=%F0%9D%99%89%F0%9D%99%93%F0%9D%99%8E%F0%9D%99%8F%F0%9D%99%94&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=𝐍𝐑𝟎𝟏𝐗&fontSize=70" />
 </p>
 
-<h1 align="center">Hi there, I'm 👋 𝙉𝙓𝙎𝙏𝙔</h1>
+<h1 align="center">Hi there, I'm 👋 𝐍𝐑𝟎𝟏𝐗</h1>
 <p align="center"><i>Building high-end Web Apps through Python mastery & Precise AI Systems Orchestration.</i></p>
 
 <table align="center">
