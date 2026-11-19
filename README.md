@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="NR01X" width="100%"/>
 
 
 
