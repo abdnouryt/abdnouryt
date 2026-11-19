@@ -2,11 +2,7 @@
 
 <img src="banner.svg" alt="NR01X" width="100%"/>
 
-<br/>
 
-<img src="terminal.svg" alt="terminal" width="92%"/>
-
-<br/><br/>
 
 <a href="https://instagram.com/nr01xx"><img src="https://img.shields.io/badge/INSTAGRAM-@nr01xx-ff5fae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
 <a href="https://github.com/abdnouryt"><img src="https://img.shields.io/badge/GITHUB-abdnouryt-ff5fae?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
